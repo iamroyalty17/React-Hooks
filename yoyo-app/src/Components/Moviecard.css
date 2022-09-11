@@ -1,0 +1,20 @@
+.div-item {
+    padding: 10px;
+}
+
+.card {
+    height: 550px;
+}
+
+/* .desc {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
+
+.card-span {
+    color: blue;
+}
+.button {
+    
+}

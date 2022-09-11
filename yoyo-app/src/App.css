@@ -1,0 +1,6 @@
+/* style={{display: "flex", flexWrap: "wrap"}} */
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
